@@ -1,13 +1,21 @@
-![working](catworking.gif)
-# Hello there! 👋  
 
-I'm **Farhad**, a student at **Azerbaijan Technical University**.  
-Really interested in **frontend development** and always trying to get better.  
 
-🚀 Currently, I'm focusing on **TypeScript and React**.  
-🧠 At the same time, improving my **algorithm and data structure** skills with C.  
+<h1 style="border-bottom: none;">Hello there! 👋</h1>
+<table>
+  <tr>
+      <td>
+      <p>I'm <strong>Farhad</strong>, a student at <strong>AzerbaijanTechnical University</strong>.</p>
+      <p>Really interested in <strong>frontend development</strong> and always trying to get better.</p>
+      <p>🚀 Currently, I'm focusing on <strong>TypeScript and React</strong>.</p>
+      <p>🧠 At the same time, improving my <strong>algorithm and data structure</strong> skills with C.</p>
+      <p>Let's connect and build something cool! 🚀✨</p>
+    </td>
+    <td><img src="catworking.gif" width="250"/></td>
+  </tr>
+</table>
 
-Let's connect and build something cool! 🚀✨  
+
+
 
 
 
