@@ -1,4 +1,12 @@
-# 💫 About Me:
+# Hello there! 👋  
+
+I'm **Farhad**, a student at **Azerbaijan Technical University**.  
+I'm really interested in **frontend development** and always trying to get better.  
+
+🚀 Currently, I'm focusing on **TypeScript and React**.  
+🧠 At the same time, I'm improving my **algorithm and data structure** skills with C.  
+
+Let's connect and build something cool! 🚀✨  
 
 
 
