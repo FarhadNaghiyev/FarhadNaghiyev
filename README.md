@@ -1,3 +1,7 @@
+[![Build Status](https://img.shields.io/badge/language-AZE-brightgreen)](https://github.com/FarhadNagiyev/FarhadNagiyev/blob/main/translateAZE.md)
+[![Build Status](https://img.shields.io/badge/language-DE-brightgreen)](https://github.com/FarhadNagiyev/FarhadNagiyev/blob/main/translateDE.md)
+
+
 <h1 style="border-bottom: none;">Hello there! 👋</h1>
 
 
