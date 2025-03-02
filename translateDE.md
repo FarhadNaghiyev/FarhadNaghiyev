@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/badge/language-AZE-brightgreen)](https://github.com/FarhadNagiyev/FarhadNagiyev/blob/main/README.md)
+[![Build Status](https://img.shields.io/badge/language-ENG-brightgreen)](https://github.com/FarhadNagiyev/FarhadNagiyev/blob/main/README.md)
 <h1 style="border-bottom: none;">Hallo zusammen! 👋</h1>
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNvemUwMGRteTdobGM5c3ZkbGs3bXdiaXp4MzF1eTM2enNmZzZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
