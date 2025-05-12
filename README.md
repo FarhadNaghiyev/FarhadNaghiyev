@@ -3,7 +3,7 @@
 <div align="left">
       <p>👨‍💻 I'm <strong>Farhad</strong>, a student at <strong>Azerbaijan Technical University</strong>.</p>
       <p>📌 Really interested in <strong>frontend development</strong> and always trying to get better.</p>
-      <p>🚀 Currently, I'm focusing on <strong>TypeScript and React</strong>.</p>
+      <p>🚀 Currently, I'm focusing on <strong>Nextjs</strong>.</p>
       <p>🧠 At the same time, improving my <strong>algorithm and data structure</strong> skills with C.</p>
       <p>Let's connect and build something cool! 🚀✨</p>
 </div>
