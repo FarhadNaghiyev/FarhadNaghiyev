@@ -2,9 +2,9 @@
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNvemUwMGRteTdobGM5c3ZkbGs3bXdiaXp4MzF1eTM2enNmZzZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 <div align="left">
       <p>👨‍💻 I'm <strong>Farhad</strong>, a student at <strong>Azerbaijan Technical University</strong>.</p>
-      <p>📌 Really interested in <strong>frontend development</strong> and always trying to get better.</p>
-      <p>🚀 Currently, I'm focusing on <strong>Nextjs</strong>.</p>
-      <p>🧠 At the same time, improving my <strong>algorithm and data structure</strong> skills with C.</p>
+      <p>📌 Really interested in <strong>MERN stack development</strong> and always trying to get better.</p>
+      <p>🚀 Currently, I'm focusing on <strong>Clean Architecture</strong>.</p>
+      <p>🧠 At the same time, improving my <strong>OOP</strong> skills with C.</p>
       <p>Let's connect and build something cool! 🚀✨</p>
 </div>
 
