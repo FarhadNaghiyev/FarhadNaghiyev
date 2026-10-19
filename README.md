@@ -1,7 +1,7 @@
 <h1 style="border-bottom: none;">Hello there! 👋</h1>
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNvemUwMGRteTdobGM5c3ZkbGs3bXdiaXp4MzF1eTM2enNmZzZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 <div align="left">
-      <p>👨‍💻 I'm <strong>Farhad</strong>, a 3rd-year IT student at <strong>Azerbaijan Technical University</strong>.</p>
+      <p>👨‍💻 I'm <strong>Farhad</strong>, a 4rd-year IT student at <strong>Azerbaijan Technical University</strong>.</p>
       <p>💼 Currently working as an <strong>Software Developer</strong> and diving deep into <strong>DevOps & Cloud Computing</strong> at Ironhack.</p>
       <p>📱 Developing mobile apps with <strong>React Native</strong> and web solutions with the <strong>MERN stack</strong>.</p>
       <p>Let's connect and build something cool! 🚀✨</p>
